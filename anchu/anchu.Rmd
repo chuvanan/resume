@@ -1,0 +1,135 @@
+---
+output:
+  pdf_document:
+    latex_engine: pdflatex
+    template: ~/Dropbox/resume/anchu/svm-latex-cv.tex
+geometry: margin=1.35in
+
+title: "CV"
+author: Chu Văn An
+
+jobtitle: "Data Analyst"
+address: "Hanoi, Vietnam"
+fontawesome: yes
+email: chuvanan.cva@gmail.com
+github: chuvanan
+phone: "+84.973.318.922"
+web: anchu.rbind.io
+updated: no
+
+keywords: R Markdown, academic CV, template
+
+fontfamily: mathpazo
+fontfamilyoptions: sc, osf
+fontsize: 11pt
+linkcolor: blue
+urlcolor: blue
+---
+
+# HIGHLIGHTS
+
+Data Analyst at RTA where I help to solve client problems with real-time
+analytics technology.
+
+I am data-obsessed and possess thorough experience in data analysis workflow:
+data collection, wrangling, visualizing, and designing business
+report/dashboard. I also build data processing tools and deliver technical
+training in data management and reproducible analytics. I have done extensive
+work in the R programming language and have a deep and up-to-date knowledge of
+the wide variety of tools available in R.
+
+I love working for projects dedicated to leveraging data to improve business
+efficiency, customer satisfaction and people’s lives.
+
+# WORK EXPERIENCE
+
+**Real-Time Analytics (RTA)**
+
+*RTA is a research & consulting firm that provides survey and analytics services
+for business clients and development partners. Our mobile and cloud-based data
+collection and management systems aid business operations and policiy decisions
+with real-time and high quality data.*
+
+***Lead Data Analyst, 2015-present***
+
+* Work closely with clients and analysts/developers team to define business
+  problems and technical requirements; design prototype; contribute to and
+  oversee data product development.
+
+* Develop internal data analysis tools and strategies to automate and optimize
+  different parts of analytics workflows.
+
+* Perform analytical, data-based examination to provide important insights on
+  product, users behaviors to support decision making and increase efficiency.
+
+* Promote best practices for standard project structure, naming conventions and
+  coding practices to ensure consistency.
+
+**VietSurvey Research and Analysis (VietSurvey)**
+
+*VietSurvey is one of the leading teams in Vietnam for national and regional
+development research. Founded in 2005, we enjoy the reputation of the team's
+work along the last decade of Vietnam development and expand our influence to
+the region given effective management, participation of leading specialists and
+institutional commitment to employ rigorous academic knowledge and skills.*
+
+***Research Analyst, 2012-2015***
+
+* Working on survey design, research, sampling, organizing fieldwork data
+  collection and report writing. Selected projects:
+
+    - Survey on Motorcycle Sales in Vietnam, 2015 - Client: Institute of Developing
+      Country (IDE - JETRO, Japan).
+
+    - Survey on Life in a time of Food Price, 2014-2015 - Client: Oxfam and IDS,
+    funded by DFID (U.K).
+
+    - Survey on Competition Law, 2014 - Client: Vietnam Competition Agency (VCA),
+    GIZ (Germany).
+
+    - Vietnam Communal Post Offices and Public Libraries Research, 2013 - Client:
+    Technology and Social Change Group (TASCHA), Bill & Melinda Gates Foundation
+    (USA).
+
+
+# EDUCATION & TRAINING
+
+**Hanoi Banking Academy**, B.A. in Finance (2012)
+
+**Coursera**, Data Science Specialization (offered by Johns Hopkins University, 2016)
+
+**DataCamp**, Data Scientist with R Track (2017)
+
+
+# SKILLS
+
+R:
+
+* Steeped in the tidyverse, data.table for data manipulation; and ggplot2,
+  highcharts for data visualization
+
+* Competent in web application framework with Shiny and SQL
+
+* Strong experience in R package development
+
+* Familiar with web scraping and working with REST APIs in both server (plumber)
+  and client sides (curl, httr)
+
+Some experience with Lisp, Python, LaTeX, HTML, CSS
+
+Comfortable at the command line (Linux, Emacs, bash, tmux)
+
+Version control with SVN, git, GitHub
+
+Good command of mockup and prototype drawing tools
+
+
+# POSITIONS
+
+Hanoi R Users Group Co-Organizer
+
+# TALKS
+
+[Hanoi UseR! Meetup 04/2017](https://speakerdeck.com/chuvanan/intro-vis)
+
+[Introduction to R and Data Visualization, USTH](https://usth.edu.vn/en/news/events/training-on-introduction-to-r-and-data-visualisation-5115.html) ([slides](https://chuvanan.github.io/rworkshop/))
