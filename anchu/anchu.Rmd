@@ -3,7 +3,7 @@ output:
   pdf_document:
     latex_engine: pdflatex
     template: ~/Dropbox/resume/anchu/svm-latex-cv.tex
-geometry: margin=1.35in
+geometry: margin=1.25in
 
 title: "CV"
 author: Chu Văn An
@@ -34,7 +34,7 @@ analytics technology.
 I am data-obsessed and possess thorough experience in data analysis workflow:
 data collection, wrangling, visualizing, and designing business
 report/dashboard. I also build data processing tools and deliver technical
-training in data management and reproducible analytics. I have done extensive
+training in data governance and reproducible analytics. I have done extensive
 work in the R programming language and have a deep and up-to-date knowledge of
 the wide variety of tools available in R.
 
@@ -45,10 +45,9 @@ efficiency, customer satisfaction and people’s lives.
 
 **Real-Time Analytics (RTA)**
 
-*RTA is a research & consulting firm that provides survey and analytics services
-for business clients and development partners. Our mobile and cloud-based data
-collection and management systems aid business operations and policiy decisions
-with real-time and high quality data.*
+RTA is an innovative research & consulting firm that provides tablet- and
+cloud-based survey and analytics services for business clients and development
+partners.
 
 ***Lead Data Analyst, 2015-present***
 
@@ -67,11 +66,9 @@ with real-time and high quality data.*
 
 **VietSurvey Research and Analysis (VietSurvey)**
 
-*VietSurvey is one of the leading teams in Vietnam for national and regional
-development research. Founded in 2005, we enjoy the reputation of the team's
-work along the last decade of Vietnam development and expand our influence to
-the region given effective management, participation of leading specialists and
-institutional commitment to employ rigorous academic knowledge and skills.*
+VietSurvey is one of the leading teams in Vietnam for economics & development
+research. We enjoy the reputation of the team's work along the last decade of
+Vietnam development.
 
 ***Research Analyst, 2012-2015***
 
