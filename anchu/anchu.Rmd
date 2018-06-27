@@ -28,8 +28,8 @@ urlcolor: blue
 
 # HIGHLIGHTS
 
-Data Analyst at RTA where I help to solve client problems with real-time
-analytics technology.
+Data Analyst at RTA where I help to solve client problems with innovative, sound
+data analytics.
 
 I am data-obsessed and possess thorough experience in data analysis workflow:
 data collection, wrangling, visualizing, and designing business
