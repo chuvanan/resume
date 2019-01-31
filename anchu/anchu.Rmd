@@ -15,7 +15,7 @@ email: chuvanan.cva@gmail.com
 github: chuvanan
 phone: "+84.973.318.922"
 web: anchu.rbind.io
-updated: no
+updated: false
 
 keywords: R Markdown, academic CV, template
 
@@ -28,20 +28,37 @@ urlcolor: blue
 
 # HIGHLIGHTS
 
-Data Analyst at RTA where I help to solve client problems with innovative, sound
-data analytics.
+Data Analyst at SeABank where I help to solve client problems with innovative,
+sound data analytics.
 
 I am data-obsessed and possess thorough experience in data analysis workflow:
-data collection, wrangling, visualizing, and designing business
-report/dashboard. I also build data processing tools and deliver technical
-training in data governance and reproducible analytics. I have done extensive
-work in the R programming language and have a deep and up-to-date knowledge of
-the wide variety of tools available in R.
+data collection, wrangling, visualizing, predictive modeling and designing
+business report/dashboard. I also build data processing tools and deliver
+technical training in data governance and reproducible analytics. I have done
+extensive work in the R programming language and have a deep and up-to-date
+knowledge of the wide variety of tools available in R.
 
 I love working for projects dedicated to leveraging data to improve business
 efficiency, customer satisfaction and people’s lives.
 
 # WORK EXPERIENCE
+
+**Southeast Asia Commercial Joint Stock Bank (SeABank)**
+
+SeABank is known as one of the leading commercial joint stock banks in Vietnam
+in terms of charter capital, distribution network, brand awareness and growth
+rate.
+
+***Analytics Team Lead, 2018-present***
+
+* Partner with BA and IT teams to provide internal clients with day-to-day,
+  data-based operation analysis and reporting.
+
+* Develop and deploy machine learning and predictive modeling on projects such
+  as Credit Scoring, Early Warning System (EWS), Customer Retention
+
+* Lead instructor for building data science team.
+
 
 **Real-Time Analytics (RTA)**
 
@@ -49,7 +66,7 @@ RTA is an innovative research & consulting firm that provides tablet- and
 cloud-based survey and analytics services for business clients and development
 partners.
 
-***Lead Data Analyst, 2015-present***
+***Lead Data Analyst, 2015-2018***
 
 * Work closely with clients and analysts/developers team to define business
   problems and technical requirements; design prototype; contribute to and
