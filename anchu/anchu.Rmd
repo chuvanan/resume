@@ -6,9 +6,8 @@ output:
 geometry: margin=1.25in
 
 title: "CV"
-author: Chu Văn An
+author: Chu Van An
 
-jobtitle: "Data Analyst"
 address: "Hanoi, Vietnam"
 fontawesome: yes
 email: chuvanan.cva@gmail.com
@@ -28,43 +27,30 @@ urlcolor: blue
 
 # HIGHLIGHTS
 
-Data Analyst at SeABank where I help to solve client problems with innovative,
-sound data analytics.
-
-I am data-obsessed and possess thorough experience in data analysis workflow:
-data collection, wrangling, visualizing, predictive modeling and designing
-business report/dashboard. I also build data processing tools and deliver
-technical training in data governance and reproducible analytics. I have done
-extensive work in the R programming language and have a deep and up-to-date
-knowledge of the wide variety of tools available in R.
-
-I love working for projects dedicated to leveraging data to improve business
-efficiency, customer satisfaction and people’s lives.
+Experienced and technically-minded business analytics professional with a
+diverse background in research, software engineering and data analytics.
 
 # WORK EXPERIENCE
 
-**Southeast Asia Commercial Joint Stock Bank (SeABank)**
-
-SeABank is known as one of the leading commercial joint stock banks in Vietnam
-in terms of charter capital, distribution network, brand awareness and growth
-rate.
+**SeABank - Commercial Bank**
 
 ***Analytics Team Lead, 2018-present***
 
-* Partner with BA and IT teams to provide internal clients with day-to-day,
-  data-based operation analysis and reporting.
+* Provide internal clients with regular/ad-hoc data-based operation analysis and
+  reporting. Selected reports include: SLA, TAT, FTR, Priority Customer Data
+  Mining.
+  
+* Work with cross-functional teams in high-profile projects to provide technical
+  expertise.
 
-* Develop and deploy machine learning and predictive modeling on projects such
-  as Credit Scoring, Early Warning System (EWS), Customer Retention
+* Build, implement and evaluate predictive models: Retail Scorecard, Retail
+  Early Warning System, Priority Customer Retention, Credit Card Behavioral
+  Scoring.
+  
+* Design and deliver internal training courses on data analytics and
+  programming.
 
-* Lead instructor for building data science team.
-
-
-**Real-Time Analytics (RTA)**
-
-RTA is an innovative research & consulting firm that provides tablet- and
-cloud-based survey and analytics services for business clients and development
-partners.
+**Real-Time Analytics - Software & Consulting Firm**
 
 ***Lead Data Analyst, 2015-2018***
 
@@ -81,15 +67,11 @@ partners.
 * Promote best practices for standard project structure, naming conventions and
   coding practices to ensure consistency.
 
-**VietSurvey Research and Analysis (VietSurvey)**
-
-VietSurvey is one of the leading teams in Vietnam for economics & development
-research. We enjoy the reputation of the team's work along the last decade of
-Vietnam development.
+**VietSurvey - Research & Consulting Firm**
 
 ***Research Analyst, 2012-2015***
 
-* Working on survey design, research, sampling, organizing fieldwork data
+* Work on survey design, research, sampling, organizing fieldwork data
   collection and report writing. Selected projects:
 
     - Survey on Motorcycle Sales in Vietnam, 2015 - Client: Institute of Developing
@@ -105,45 +87,22 @@ Vietnam development.
     Technology and Social Change Group (TASCHA), Bill & Melinda Gates Foundation
     (USA).
 
-
 # EDUCATION & TRAINING
 
-**Hanoi Banking Academy**, B.A. in Finance (2012)
+**Hanoi Banking Academy**, B.A. in Commercial Banking (2012)
 
-**Coursera**, Data Science Specialization (offered by Johns Hopkins University, 2016)
+**Coursera**, Data Science Specialization (Johns Hopkins University, 2016)
 
 **DataCamp**, Data Scientist with R Track (2017)
 
-
 # SKILLS
 
-R:
+***Language***: Vietnamese (native), English (TOEIC: 865)
 
-* Steeped in the tidyverse, data.table for data manipulation; and ggplot2,
-  highcharts for data visualization
+***Technical***: R, SQL, PL/SQL, Excel, Linux, git, bash, data visualisation
 
-* Competent in web application framework with Shiny and SQL
-
-* Strong experience in R package development
-
-* Familiar with web scraping and working with REST APIs in both server (plumber)
-  and client sides (curl, httr)
-
-Some experience with Lisp, Python, LaTeX, HTML, CSS
-
-Comfortable at the command line (Linux, Emacs, bash, tmux)
-
-Version control with SVN, git, GitHub
-
-Good command of mockup and prototype drawing tools
-
-
-# POSITIONS
-
-Hanoi R Users Group Co-Organizer
-
-# TALKS
+# PRESENTATIONS & WORKSHOPS
 
 [Hanoi UseR! Meetup 04/2017](https://speakerdeck.com/chuvanan/intro-vis)
 
-[Introduction to R and Data Visualization, USTH](https://usth.edu.vn/en/news/events/training-on-introduction-to-r-and-data-visualisation-5115.html) ([slides](https://chuvanan.github.io/rworkshop/))
+[Introduction to R and Data Visualization, University of Science and Technology of Hanoi](https://usth.edu.vn/en/news/events/training-on-introduction-to-r-and-data-visualisation-5115.html) ([slides](https://chuvanan.github.io/rworkshop/))
